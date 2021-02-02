@@ -1,5 +1,7 @@
 # HackerRank
 
+Here are my attempts at these questions. 
+
 ## Algorithms
 
 Subdomain | Problem | Solution | Score
@@ -23,3 +25,6 @@ Implementation | Subarray Division | [Solution]() | 10
 Implementation | Divisible Sum Pairs | [Solution]() | 10
 Implementation | Migratory Birds | [Solution]() | 10
 Implementation | Day of the Programmer | [Solution]() | 15
+
+## Interview Preperation Kit
+Warmup | [Sales By Match](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/SolveMeFirst.py) | 1
