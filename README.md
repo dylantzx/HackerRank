@@ -27,4 +27,6 @@ Implementation | Migratory Birds | [Solution]() | 10
 Implementation | Day of the Programmer | [Solution]() | 15
 
 ## Interview Preperation Kit
-Warmup | [Sales By Match](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/SolveMeFirst.py) | 1
+Subdomain | Problem | Solution | Score
+------------ | ------------- | ------------- | -------------
+Warmup | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesByMatch.py) | 1
