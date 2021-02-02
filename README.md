@@ -29,4 +29,4 @@ Implementation | Day of the Programmer | [Solution]() | 15
 ## Interview Preperation Kit
 Subdomain | Problem | Solution | Score
 ------------ | ------------- | ------------- | -------------
-Warmup | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesByMatch.py) | 1
+Warmup | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesByMatch.py) | 10
