@@ -16,15 +16,15 @@ Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 
 Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/MinMaxSum.py) | 10
 Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/BirthdayCakeCandles.py) | 10
 Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/TimeConversion.py) | 15
-Implementation | Grading Students | [Solution]() | 10
-Implementation | Apple and Orange | [Solution]() | 10
-Implementation | Number Line Jumps | [Solution]() | 10
-Implementation | Between Two Sets | [Solution]() | 10
-Implementation | Breaking the Records | [Solution]() | 10
-Implementation | Subarray Division | [Solution]() | 10
-Implementation | Divisible Sum Pairs | [Solution]() | 10
-Implementation | Migratory Birds | [Solution]() | 10
-Implementation | Day of the Programmer | [Solution]() | 15
+Implementation | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/GradingStudents.py) | 10
+Implementation | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/AppleAndOrange.py) | 10
+Implementation | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/NumberLineJumps.py) | 10
+Implementation | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/BetweenTwoSets.py) | 10
+Implementation | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/BreakingTheRecords.py) | 10
+Implementation | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/SubarrayDivision.py) | 10
+Implementation | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/DivisibleSumPairs.py) | 10
+Implementation | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/MigratoryBirds.py) | 10
+Implementation | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/2.%20Implementation/DayOfTheProgrammer.py) | 15
 
 ## Interview Preperation Kit
 Subdomain | Problem | Solution | Score
