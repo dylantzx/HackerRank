@@ -30,3 +30,13 @@ Implementation | Day of the Programmer | [Solution]() | 15
 Subdomain | Problem | Solution | Score
 ------------ | ------------- | ------------- | -------------
 Warmup | [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesByMatch.py) | 10
+
+## 30 Days of Code
+Day | Problem | Solution | Score
+------------ | ------------- | ------------- | -------------
+0 | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/HelloWorld.py) | 30
+1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/DataTypes.py) | 30
+2 | [Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Operators.py) | 30
+3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/IntroToConditionalStatements.py) | 30
+4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/ClassVsInstance.py) | 30
+5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Loops.py) | 30
