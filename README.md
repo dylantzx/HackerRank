@@ -3,7 +3,7 @@
 ## Algorithms
 ---
 Subdomain | Problem | Solution | Score
------------- | -------------
+------------ | ------------- | ------------- | -------------
 Warmup | Solve Me First | Content from cell 2 | Solution | 1
 Warmup | Simple Array Sum | Problem | Solution | 10
 Warmup | Compare the Triplets | Problem | Solution | 10
