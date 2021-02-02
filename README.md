@@ -1,2 +1,5 @@
 # HackerRank
-![Logo](/Users/dylantan/Desktop/SUTD Stuff/HackerRank/HackerRank_Icon.png)
+Problem | Solution
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
