@@ -1,6 +1,6 @@
 # HackerRank
 
-Here are my attempts at these questions. 
+The solutions may not be the most optimal. These are just my attempts at the questions. 
 
 ## Algorithms
 
