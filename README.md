@@ -10,10 +10,8 @@ Warmup | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-th
 Warmup | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/AVeryBigSum.py) | 10
 Warmup | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/DiagonalDifference.py) | 10
 Warmup | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/PlusMinus.py) | 10
-Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem
-) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/Staircase.py) | 10
-Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem
-) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/MinMaxSum.py) | 10
+Warmup | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/Staircase.py) | 10
+Warmup | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/MinMaxSum.py) | 10
 Warmup | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/BirthdayCakeCandles.py) | 10
 Warmup | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/Algorithms/1.%20Warmup/TimeConversion.py) | 15
 Implementation | Grading Students | [Solution]() | 10
