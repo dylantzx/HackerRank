@@ -40,3 +40,5 @@ Day | Problem | Solution | Score
 3 | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/IntroToConditionalStatements.py) | 30
 4 | [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/ClassVsInstance.py) | 30
 5 | [Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Loops.py) | 30
+6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/LetsReview.py) | 30
+7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Arrays.py) | 30
