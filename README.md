@@ -43,3 +43,4 @@ Day | Problem | Solution | Score
 6 | [Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/LetsReview.py) | 30
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Arrays.py) | 30
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/DictionariesAndMaps.py) | 30
+9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Recursion.py) | 30
