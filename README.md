@@ -44,3 +44,9 @@ Day | Problem | Solution | Score
 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Arrays.py) | 30
 8 | [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/DictionariesAndMaps.py) | 30
 9 | [Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Recursion.py) | 30
+
+10 | [Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BinaryNumbers.py) | 30
+11 | [2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/2DArrays.py) | 30
+12 | [Inheritence](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Inheritance.py) | 30
+13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/AbstractClasses.py) | 30
+14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Scope.py) | 30
