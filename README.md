@@ -49,3 +49,18 @@ Day | Problem | Solution | Score
 12 | [Inheritence](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Inheritance.py) | 30
 13 | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/AbstractClasses.py) | 30
 14 | [Scope](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Scope.py) | 30
+15 | [Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/LinkedList.py) | 30
+16 | [Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Exceptions.py) | 30
+17 | [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/MoreExceptions.py) | 30
+18 | [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/QueuesAndStacks.py) | 30
+19 | [Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Interfaces.py) | 30
+20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Sorting.py) | 30
+21 | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Generics.c) | 30
+22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BinarySearchTrees.py) | 30
+23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/DictionariesAndMaps.py) | 30
+24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Recursion.py) | 30
+25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BinaryNumbers.py) | 30
+26 | [Nested Logic](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/2DArrays.py) | 30
+27 | [Testing](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Inheritance.py) | 30
+28 | [RegEX, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/AbstractClasses.py) | 30
+29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Scope.py) | 30
