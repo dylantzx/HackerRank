@@ -57,10 +57,10 @@ Day | Problem | Solution | Score
 20 | [Sorting](https://www.hackerrank.com/challenges/30-sorting/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Sorting.py) | 30
 21 | [Generics](https://www.hackerrank.com/challenges/30-generics/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Generics.c) | 30
 22 | [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BinarySearchTrees.py) | 30
-23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/DictionariesAndMaps.py) | 30
-24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-recursion/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Recursion.py) | 30
-25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BinaryNumbers.py) | 30
-26 | [Nested Logic](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/2DArrays.py) | 30
-27 | [Testing](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Inheritance.py) | 30
-28 | [RegEX, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/AbstractClasses.py) | 30
-29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-scope/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Scope.py) | 30
+23 | [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BSTLevelOrderTraversal.py) | 30
+24 | [More Linked Lists](https://www.hackerrank.com/challenges/30-more-linked-lists/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/MoreLinkedLists.py) | 30
+25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/RunningTimeAndComplexity.py) | 30
+26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/NestedLogic.py) | 30
+27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Testing.py) | 30
+28 | [RegEX, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns-and-intro-to-databases/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Databases.py) | 30
+29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BitwiseAND.py) | 30
