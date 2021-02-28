@@ -62,5 +62,5 @@ Day | Problem | Solution | Score
 25 | [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/RunningTimeAndComplexity.py) | 30
 26 | [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/NestedLogic.py) | 30
 27 | [Testing](https://www.hackerrank.com/challenges/30-testing/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Testing.py) | 30
-28 | [RegEX, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns-and-intro-to-databases/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/Databases.py) | 30
+28 | [RegEX, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/RegEx.py) | 30
 29 | [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem) | [Solution](https://github.com/dylantzx/HackerRank/blob/main/30%20Days%20Of%20Code/BitwiseAND.py) | 30
